@@ -1,0 +1,64 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'Inconsolata Regular','Droid Sans Mono'",
+    "terminal.integrated.fontSize":11,
+    "terminal.integrated.lineHeight": 1.3,
+    "editor.lineNumbers": "on",
+    "files.associations": {
+      "*.props":"xml",
+      "*.targets":"xml",
+      "*.nuspec":"xml",
+      "*.Tests":"csharp"
+    },
+    "workbench.colorTheme": "Visual Studio Light",
+    "files.trimTrailingWhitespace": true,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "update.channel": "none",
+    "csharp.suppressDotnetRestoreNotification": true,
+    "workbench.welcome.enabled": false,
+    "cSpell.enabledLanguageIds": [
+      "c",
+      "cpp",
+      "csharp",
+      "go",
+      "javascript",
+      "javascriptreact",
+      "json",
+      "latex",
+      "markdown",
+      "php",
+      "plaintext",
+      "python",
+      "text",
+      "typescript",
+      "typescriptreact",
+      "xml",
+      "yml"
+    ],
+    "cSpell.userWords": [
+      "Uncomment",
+      "netstandard",
+      "netcoreapp",
+      "libsekernel",
+      "libsebuild",
+      "Audicon",
+      "libseedit",
+      "Theobald",
+      "erpconnect",
+      "libkernel",
+      "Xunit",
+      "visualstudio",
+      "Herne",
+      "wildcards"
+    ],
+    "editor.minimap.enabled": false,
+    "files.insertFinalNewline": true,
+    "editor.rulers": [
+      80,
+      120,
+      160
+    ],
+    "editor.renderLineHighlight": "none"
+  }
