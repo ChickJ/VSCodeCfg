@@ -1,0 +1,11 @@
+*.sock
+Backups
+Cache
+CachedData
+CachedExtensions
+Cookies
+Cookies-journal
+GPUCache
+logs
+machineid
+
