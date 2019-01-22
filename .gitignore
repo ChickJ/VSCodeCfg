@@ -6,6 +6,8 @@ CachedExtensions
 Cookies
 Cookies-journal
 GPUCache
+Local Storage
 logs
 machineid
-
+User/globalStorage
+User/workspaceStorage
