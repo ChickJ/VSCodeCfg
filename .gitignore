@@ -9,5 +9,6 @@ GPUCache
 Local Storage
 logs
 machineid
+storage.json
 User/globalStorage
 User/workspaceStorage
